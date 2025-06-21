@@ -1,1 +1,1 @@
-# myfirstproject
+# leetcode-daily-practice
