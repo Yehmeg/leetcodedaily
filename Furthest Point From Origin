@@ -1,0 +1,25 @@
+#python optimal 
+def furthestDistanceFromOrigin(self, moves: str) -> int:
+        L=moves.count("L")
+        R=moves.count("R")
+        _=moves.count("_")
+        return abs(R-L)+_
+
+
+#my 
+def furthestDistanceFromOrigin(self, moves: str) -> int:
+        dist = 0
+        count = 0
+
+        for i in moves:
+            if i=='L':
+                dist= dist-1
+            elif i=='R' :
+                dist = dist+1
+            else :
+                count+=1
+        if dist<0:
+            count= count+ abs(dist)
+        else:
+            count=count+dist
+        return count
