@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,16 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
