@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
