@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
+| [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yehmeg/leetcodedaily/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
