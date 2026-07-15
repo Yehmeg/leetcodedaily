@@ -53,6 +53,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yehmeg/leetcodedaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yehmeg/leetcodedaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
