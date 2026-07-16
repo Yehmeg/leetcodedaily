@@ -78,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
@@ -114,4 +115,8 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
