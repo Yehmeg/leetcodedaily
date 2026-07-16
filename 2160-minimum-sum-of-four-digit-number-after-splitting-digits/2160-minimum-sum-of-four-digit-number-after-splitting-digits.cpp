@@ -2,11 +2,21 @@ class Solution {
 public:
     int minimumSum(int num) {
         vector<int>v;
-        for(int i=0;i<4;i++){
-            int n=num%10;
-            num=num/10;
-            v.push_back(n);
-        }
+        int one= num%10;
+        num/=10;
+        v.push_back(one);
+
+        int two=num%10;
+        num/=10;
+        v.push_back(two);
+
+        int three=num%10;
+        num/=10;
+        v.push_back(three);
+
+        int four=num%10;
+        num/=10;
+        v.push_back(four);
 
         sort(v.begin(),v.end());
         int n1= 10*v[0] +v[3];
