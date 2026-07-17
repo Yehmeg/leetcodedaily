@@ -82,6 +82,7 @@
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
+| [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
+| [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
@@ -119,4 +121,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
