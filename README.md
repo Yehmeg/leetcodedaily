@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
