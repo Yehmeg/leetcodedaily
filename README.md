@@ -19,6 +19,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -79,6 +80,7 @@
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
