@@ -11,6 +11,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
@@ -61,6 +63,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -146,4 +150,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
