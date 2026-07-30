@@ -21,6 +21,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Yehmeg/leetcodedaily/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -58,6 +59,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Yehmeg/leetcodedaily/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
