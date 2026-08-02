@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
+| [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -82,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -115,6 +117,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -123,6 +126,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
