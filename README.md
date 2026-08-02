@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/Yehmeg/leetcodedaily/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
@@ -73,6 +74,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
