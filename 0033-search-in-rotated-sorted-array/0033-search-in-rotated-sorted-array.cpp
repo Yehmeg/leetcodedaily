@@ -34,7 +34,7 @@ public:
             if (nums[mid] > nums[mid - 1] &&
                 nums[mid] > nums[mid + 1]) {
 
-                pivot = mid + 1;
+                pivot = mid + 1;  
                 break;
             }
 
@@ -42,17 +42,10 @@ public:
                 lo = mid + 1;
             }
             else {
-                // CHANGE 2:
-                // keep mid in search space
                 hi = mid-1;
             }
         }
-
-        // If no pivot found, array is already sorted.
-        if (pivot == -1)
-            pivot = 0;
-
-        // ---------- Decide Search Range ----------
+        // search range
 
         if (target >= nums[pivot] &&
             target <= nums[n - 1]) {
@@ -66,7 +59,7 @@ public:
             hi = pivot - 1;
         }
 
-        // ---------- Binary Search ----------
+        //search
 
         while (lo <= hi) {
 
