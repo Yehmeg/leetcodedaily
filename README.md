@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
@@ -69,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
