@@ -35,6 +35,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
+| [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0506-relative-ranks](https://github.com/Yehmeg/leetcodedaily/tree/master/0506-relative-ranks) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
