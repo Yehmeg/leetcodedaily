@@ -22,9 +22,6 @@ public:
         }
         for(int i=0;i<n;i++){
             output[i]=to_string(-1*(score[i]));
-        }
-
-        for(int i =0;i< n;i++){
             if(output[i]=="1") output[i]="Gold Medal";
             else if(output[i]=="2") output[i]="Silver Medal";
             else if(output[i]=="3") output[i]="Bronze Medal";
