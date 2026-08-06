@@ -21,6 +21,7 @@
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Yehmeg/leetcodedaily/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
+| [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
@@ -126,6 +127,7 @@
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
+| [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -190,6 +192,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
