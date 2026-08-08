@@ -82,6 +82,7 @@
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,6 +98,7 @@
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -155,6 +157,7 @@
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Yehmeg/leetcodedaily/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
