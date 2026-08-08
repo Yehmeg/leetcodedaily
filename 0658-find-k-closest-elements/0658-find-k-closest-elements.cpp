@@ -2,8 +2,6 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {   
 
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
     int lo=0;
     int n= arr.size();
     int hi=n-1; 
