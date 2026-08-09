@@ -38,6 +38,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -90,6 +91,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yehmeg/leetcodedaily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yehmeg/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
 ## Divide and Conquer
 |  |
 | ------- |
