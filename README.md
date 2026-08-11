@@ -111,6 +111,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
