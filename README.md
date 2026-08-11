@@ -67,6 +67,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1009-complement-of-base-10-integer) |
 ## Matrix
@@ -106,6 +107,7 @@
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
