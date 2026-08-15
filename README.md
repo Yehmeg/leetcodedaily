@@ -38,6 +38,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Yehmeg/leetcodedaily/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yehmeg/leetcodedaily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Yehmeg/leetcodedaily/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
@@ -113,6 +114,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yehmeg/leetcodedaily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yehmeg/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/Yehmeg/leetcodedaily/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yehmeg/leetcodedaily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
