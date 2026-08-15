@@ -4,25 +4,28 @@ public:
         int lo=0;
         int n=nums.size();
         int hi=n-1;
-        int ans=0;
         int pos=n;
-        if(nums[0]>0) return nums.size();
 
         while(lo<=hi){//positive
+
             int mid=lo+(hi-lo)/2;
+
             if(nums[mid]>0){
                 pos=mid;
                 hi=mid-1;
             }
             else lo=mid+1;
         }
-        int positive=n-pos;
+
+        int positive=n-pos;//total positive
+
         lo=0;
-        hi=n-1;
+        hi=pos-1;
         int negend=-1;
 
-        while(lo<=hi){//positive
+        while(lo<=hi){//negative(skip 0 is present )
             int mid=lo+(hi-lo)/2;
+
             if(nums[mid]<0){
                 negend=mid;
                 lo=mid+1;
