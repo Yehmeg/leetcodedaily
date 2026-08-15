@@ -104,6 +104,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Yehmeg/leetcodedaily/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Yehmeg/leetcodedaily/tree/master/0704-binary-search) |
@@ -128,6 +129,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Yehmeg/leetcodedaily/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Yehmeg/leetcodedaily/tree/master/0670-maximum-swap) |
