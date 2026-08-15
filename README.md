@@ -157,6 +157,7 @@
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -183,6 +185,7 @@
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Yehmeg/leetcodedaily/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
