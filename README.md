@@ -46,6 +46,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
+| [2643-row-with-maximum-ones](https://github.com/Yehmeg/leetcodedaily/tree/master/2643-row-with-maximum-ones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -91,6 +92,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Yehmeg/leetcodedaily/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/Yehmeg/leetcodedaily/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
