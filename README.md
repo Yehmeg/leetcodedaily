@@ -59,6 +59,7 @@
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -159,6 +160,7 @@
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
