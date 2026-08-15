@@ -1,17 +1,18 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int update_n=n;
-        for(int i=1;i <= n; i++){
-           update_n=update_n-i;
-            if(update_n<0){
-                return i-1;
-            }
-            if (update_n==0){
-                return i;
-            }
+        long long lo=0;
+        long long hi=n;
 
-        }
-     return -1;   
+         while(lo<=hi){
+            long long mid=lo+(hi-lo)/2;
+            long long m=mid*(mid+1)/2;
+
+            if(m==n) return int(mid);
+            else if(m>n) hi=mid-1;
+            else lo=mid+1;
+         }
+    
+     return hi;   
     }
 };
