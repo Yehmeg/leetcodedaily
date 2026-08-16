@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
