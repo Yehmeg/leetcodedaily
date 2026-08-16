@@ -180,6 +180,7 @@
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yehmeg/leetcodedaily/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Yehmeg/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yehmeg/leetcodedaily/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Yehmeg/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
