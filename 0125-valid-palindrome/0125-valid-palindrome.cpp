@@ -4,13 +4,13 @@ public:
         int i=0;
         int j=s.size()-1;
         while(i<=j){
-            while(i < j && !isalnum(s[i]))
+            while(i < j && !isalnum(s[i])) //multiple not aplha num character skip
                 i++;
 
             while(i < j && !isalnum(s[j]))
                 j--;
 
-            if(tolower(s[i]) != tolower(s[j]))
+            if(tolower(s[i]) != tolower(s[j])) ///if not equal 
                 return false;
              i++;
              j--;
