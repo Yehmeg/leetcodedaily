@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1009-complement-of-base-10-integer) |
 ## Matrix
@@ -144,6 +145,7 @@
 | [0492-construct-the-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Yehmeg/leetcodedaily/tree/master/0670-maximum-swap) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -261,6 +263,7 @@
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 ## Counting
 |  |
 | ------- |
