@@ -135,6 +135,7 @@
 | [0009-palindrome-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0509-fibonacci-number) |
