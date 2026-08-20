@@ -9,7 +9,7 @@ public:
             if(prices[i] < mn){
                 mn= prices[i];
             }
-            else profit =max(prices[i]-mn, profit);
+            if(prices[i]-mn>profit) profit= prices[i]-mn ;
         }
         return profit;
 
