@@ -1,30 +1,29 @@
 class Solution {
 public:
   
-    string check(int n, string s){
+    string countAndSay(int n) { 
         if(n == 1)
-            return s;
-
+            return "1";
+        string str= countAndSay(n-1);
         string ans = "";
         int count = 1;
+        char ch= str[0];
 
-        for(int i=1;i<s.size();i++){
-            if(s[i]==s[i-1])
+        for(int i=1;i<str.size();i++){
+            char dh= str[i];
+
+            if(ch==dh)
                 count++;
             
             else{
-                ans += to_string(count);
+                ans +=( to_string(count)+ch);
                 count=1;
-                ans += s[i-1];
+                ch=dh;
             }
         }
-        ans += to_string(count);
-        ans += s.back();
-        return check(n-1,ans);
-    }
+        ans +=( to_string(count)+ch);
 
-    string countAndSay(int n) { 
-        return check(n,"1");
+        return ans;
 
     }
 };
