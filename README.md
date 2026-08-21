@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Yehmeg/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
@@ -128,6 +129,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yehmeg/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Yehmeg/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yehmeg/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
