@@ -1,5 +1,8 @@
 class Solution {
-public:
+public: 
+
+// Kadane's Algorithm======================
+
     int maxSubArray(vector<int>& nums) {
 
         int currentSum = nums[0];
