@@ -76,6 +76,7 @@
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -206,6 +207,7 @@
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
