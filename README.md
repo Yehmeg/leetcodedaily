@@ -339,4 +339,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yehmeg/leetcodedaily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
