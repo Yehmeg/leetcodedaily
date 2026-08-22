@@ -8,8 +8,9 @@ public:
 
             c = 'a' + j;
             if ( sentence[i] == c) j++;
+        
+        if( j == 26) return true;
         }
-        if( j!= 26) return false;
-        return true;
+        return false;
     }
 };
