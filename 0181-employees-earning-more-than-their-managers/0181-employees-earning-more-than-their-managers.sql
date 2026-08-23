@@ -2,8 +2,8 @@
 SELECT e.name AS Employee
 FROM Employee e
 WHERE e.salary > (
-SELECT Employee.salary 
-FROM Employee
-WHERE e.managerid = Employee.id 
+SELECT m.salary 
+FROM Employee as m
+WHERE e.managerid = m.id 
 );
 
