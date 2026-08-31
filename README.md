@@ -181,6 +181,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yehmeg/leetcodedaily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yehmeg/leetcodedaily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -313,6 +314,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yehmeg/leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
