@@ -175,6 +175,7 @@
 | [0509-fibonacci-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Yehmeg/leetcodedaily/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/1015-smallest-integer-divisible-by-k) |
