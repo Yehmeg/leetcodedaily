@@ -1,30 +1,15 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-        int sumright= n ;
-        int sumleft=1;
-        int lo=1;
-        int hi= n;
+     
+        int Sum = n * (n + 1) / 2;
 
-        while( lo <= hi ){
-            if( sumright== sumleft && lo ==hi ) return lo;
-            else if( sumright > sumleft) {
-                
-                lo++;
-                sumleft+=lo;
+        int x = sqrt(Sum);
 
-            }
-            else if( sumright < sumleft){
-                hi--;
-                sumright+= hi;
-            }
-            else {
-                lo++;
-                sumleft+=lo;
-                hi--;
-                sumright+= hi;
-            }
-        }
-        return -1;
+        if (x * x == Sum) 
+            return x;
+        
+
+        return -1;  
     }
 };
