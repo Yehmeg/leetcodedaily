@@ -85,6 +85,7 @@
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
@@ -176,6 +177,7 @@
 | [0670-maximum-swap](https://github.com/Yehmeg/leetcodedaily/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Yehmeg/leetcodedaily/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
