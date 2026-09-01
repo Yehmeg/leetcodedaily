@@ -106,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yehmeg/leetcodedaily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
@@ -165,6 +166,7 @@
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Yehmeg/leetcodedaily/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
@@ -227,6 +229,7 @@
 | [0022-generate-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Yehmeg/leetcodedaily/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Yehmeg/leetcodedaily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yehmeg/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1929-concatenation-of-array) |
