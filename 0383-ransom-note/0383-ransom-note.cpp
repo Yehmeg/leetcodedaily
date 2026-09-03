@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
+        int n= ransomNote.size();
         sort( ransomNote.begin(), ransomNote.end());
         sort(magazine.begin(), magazine.end());
 
         int i=0;
         int j=0;
-        while(i< ransomNote.size() && j< magazine.size()){
+        while(i< n && j< magazine.size()){
             if( ransomNote[i] == magazine[j]) {
                 j++;
                 i++;
@@ -16,6 +17,6 @@ public:
 
             }
         }
-        return (i==ransomNote.size())?true:false;
+        return (i== n)?true:false;
     }
 };
