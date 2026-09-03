@@ -84,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/Yehmeg/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Yehmeg/leetcodedaily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
@@ -237,6 +238,7 @@
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Yehmeg/leetcodedaily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Yehmeg/leetcodedaily/tree/master/0383-ransom-note) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
