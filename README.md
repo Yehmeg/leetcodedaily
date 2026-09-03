@@ -178,6 +178,7 @@
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Yehmeg/leetcodedaily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Yehmeg/leetcodedaily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Yehmeg/leetcodedaily/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/0492-construct-the-rectangle) |
@@ -244,6 +245,7 @@
 | [0383-ransom-note](https://github.com/Yehmeg/leetcodedaily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Yehmeg/leetcodedaily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
@@ -305,6 +307,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Yehmeg/leetcodedaily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
