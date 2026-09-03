@@ -5,8 +5,8 @@ public:
 
         string ans;
         int carry =0;
-        int i = (int) num1.size()-1;
-        int j= (int) num2.size()-1;
+        int i = num1.size()-1;
+        int j= num2.size()-1;
 
         while(i>=0 || j>=0){
             int sum =carry;
