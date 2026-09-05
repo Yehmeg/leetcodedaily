@@ -74,6 +74,7 @@
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
+| [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
