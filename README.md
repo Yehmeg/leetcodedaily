@@ -416,4 +416,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
