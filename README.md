@@ -46,6 +46,7 @@
 | [0912-sort-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yehmeg/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Yehmeg/leetcodedaily/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Yehmeg/leetcodedaily/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -289,6 +290,7 @@
 | [0455-assign-cookies](https://github.com/Yehmeg/leetcodedaily/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Yehmeg/leetcodedaily/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
+| [1089-duplicate-zeros](https://github.com/Yehmeg/leetcodedaily/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
