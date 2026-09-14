@@ -65,6 +65,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Yehmeg/leetcodedaily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -260,6 +261,7 @@
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Yehmeg/leetcodedaily/tree/master/0836-rectangle-overlap) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
