@@ -6,7 +6,8 @@ public:
 
         for( int i =0 ;i <words.size(); i++)
         {
-            if(words[i].substr(0,n)==pref) count++;
+            // if(words[i].substr(0,n)==pref) count++;
+            if(words[i].starts_with(pref)) count++;
         }
     return count;
     }
