@@ -80,6 +80,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/Yehmeg/leetcodedaily/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yehmeg/leetcodedaily/tree/master/0383-ransom-note) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3978-unique-middle-element](https://github.com/Yehmeg/leetcodedaily/tree/master/3978-unique-middle-element) |
 ## Prefix Sum
 |  |
 | ------- |
