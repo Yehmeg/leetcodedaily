@@ -204,6 +204,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yehmeg/leetcodedaily/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/Yehmeg/leetcodedaily/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Yehmeg/leetcodedaily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Yehmeg/leetcodedaily/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yehmeg/leetcodedaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -451,4 +453,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0215-kth-largest-element-in-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Yehmeg/leetcodedaily/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
