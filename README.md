@@ -24,6 +24,7 @@
 | [0137-single-number-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Yehmeg/leetcodedaily/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
@@ -149,6 +150,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Yehmeg/leetcodedaily/tree/master/0441-arranging-coins) |
