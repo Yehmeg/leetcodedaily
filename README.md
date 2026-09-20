@@ -135,6 +135,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yehmeg/leetcodedaily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yehmeg/leetcodedaily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yehmeg/leetcodedaily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
