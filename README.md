@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Yehmeg/leetcodedaily/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Yehmeg/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0074-search-a-2d-matrix) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Yehmeg/leetcodedaily/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Yehmeg/leetcodedaily/tree/master/0217-contains-duplicate) |
