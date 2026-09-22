@@ -6,8 +6,7 @@ public:
         int i =0;
         while( i < n){
             int correct= nums[i]-1;
-            if(nums[i]==i+1) i++;
-            else if(nums[correct]==nums[i]) i++;
+            if(nums[correct]==nums[i]) i++;
             else swap(nums[i], nums[correct]);
         }
         for( int i =0; i<n; i++){
