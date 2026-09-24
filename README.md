@@ -291,6 +291,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -388,6 +389,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yehmeg/leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
