@@ -74,6 +74,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Yehmeg/leetcodedaily/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
@@ -122,6 +123,7 @@
 | [1402-reducing-dishes](https://github.com/Yehmeg/leetcodedaily/tree/master/1402-reducing-dishes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yehmeg/leetcodedaily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Yehmeg/leetcodedaily/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -265,6 +268,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -395,6 +399,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yehmeg/leetcodedaily/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
