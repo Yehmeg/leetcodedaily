@@ -92,6 +92,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3904-smallest-stable-index-ii) |
 | [3978-unique-middle-element](https://github.com/Yehmeg/leetcodedaily/tree/master/3978-unique-middle-element) |
+| [3979-maximum-valid-pair-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/3979-maximum-valid-pair-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3979-maximum-valid-pair-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/3979-maximum-valid-pair-sum) |
 ## Sliding Window
 |  |
 | ------- |
