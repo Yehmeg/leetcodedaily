@@ -53,6 +53,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yehmeg/leetcodedaily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Yehmeg/leetcodedaily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Yehmeg/leetcodedaily/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/Yehmeg/leetcodedaily/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/Yehmeg/leetcodedaily/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -427,6 +428,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/Yehmeg/leetcodedaily/tree/master/1052-grumpy-bookstore-owner) |
 ## Memoization
 |  |
 | ------- |
