@@ -65,6 +65,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Yehmeg/leetcodedaily/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yehmeg/leetcodedaily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Yehmeg/leetcodedaily/tree/master/1672-richest-customer-wealth) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1929-concatenation-of-array) |
