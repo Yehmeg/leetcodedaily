@@ -305,6 +305,7 @@
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
@@ -386,6 +387,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
 | ------- |
