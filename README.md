@@ -159,6 +159,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yehmeg/leetcodedaily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Yehmeg/leetcodedaily/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
