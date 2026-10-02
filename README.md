@@ -150,6 +150,7 @@
 | [0338-counting-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Yehmeg/leetcodedaily/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Yehmeg/leetcodedaily/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Yehmeg/leetcodedaily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/Yehmeg/leetcodedaily/tree/master/0868-binary-gap) |
