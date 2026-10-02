@@ -14,10 +14,8 @@ public:
                 dist=1; 
                 seen= true;
             }
-            else  {
-                dist++;
-            }
-            cout<< n<<endl;
+            else dist++;
+            
             n >>= 1;
             
            
