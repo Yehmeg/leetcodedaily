@@ -3,7 +3,7 @@ public:
     bool isHappy(int n) {
         
         
-        set<int>seen;
+        set<int>seen;//stores unique value and finds val easliy and fast
 
         bool flag =false;
         while(n!= 1){
