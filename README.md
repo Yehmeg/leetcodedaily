@@ -104,6 +104,7 @@
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yehmeg/leetcodedaily/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Yehmeg/leetcodedaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
@@ -222,6 +223,7 @@
 | [0069-sqrtx](https://github.com/Yehmeg/leetcodedaily/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Yehmeg/leetcodedaily/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0263-ugly-number) |
@@ -353,6 +355,7 @@
 | [0075-sort-colors](https://github.com/Yehmeg/leetcodedaily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Yehmeg/leetcodedaily/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Yehmeg/leetcodedaily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
@@ -537,5 +540,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
