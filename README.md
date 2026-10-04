@@ -74,6 +74,7 @@
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yehmeg/leetcodedaily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -327,6 +328,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yehmeg/leetcodedaily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yehmeg/leetcodedaily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -400,6 +402,7 @@
 | [1260-shift-2d-grid](https://github.com/Yehmeg/leetcodedaily/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Yehmeg/leetcodedaily/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yehmeg/leetcodedaily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
