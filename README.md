@@ -129,6 +129,7 @@
 | [0134-gas-station](https://github.com/Yehmeg/leetcodedaily/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Yehmeg/leetcodedaily/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/Yehmeg/leetcodedaily/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/Yehmeg/leetcodedaily/tree/master/1402-reducing-dishes) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -315,6 +316,7 @@
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Yehmeg/leetcodedaily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0415-add-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Yehmeg/leetcodedaily/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Yehmeg/leetcodedaily/tree/master/0848-shifting-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -336,6 +338,7 @@
 | [0338-counting-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Yehmeg/leetcodedaily/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yehmeg/leetcodedaily/tree/master/1025-divisor-game) |
 | [1402-reducing-dishes](https://github.com/Yehmeg/leetcodedaily/tree/master/1402-reducing-dishes) |
@@ -401,6 +404,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Yehmeg/leetcodedaily/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Yehmeg/leetcodedaily/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
@@ -494,6 +498,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yehmeg/leetcodedaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
