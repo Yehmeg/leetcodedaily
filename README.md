@@ -328,6 +328,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
