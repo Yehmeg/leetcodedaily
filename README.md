@@ -87,6 +87,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/Yehmeg/leetcodedaily/tree/master/2562-find-the-array-concatenation-value) |
 | [2643-row-with-maximum-ones](https://github.com/Yehmeg/leetcodedaily/tree/master/2643-row-with-maximum-ones) |
+| [2942-find-words-containing-character](https://github.com/Yehmeg/leetcodedaily/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -332,6 +333,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Yehmeg/leetcodedaily/tree/master/2315-count-asterisks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Yehmeg/leetcodedaily/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2942-find-words-containing-character](https://github.com/Yehmeg/leetcodedaily/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yehmeg/leetcodedaily/tree/master/3498-reverse-degree-of-a-string) |
