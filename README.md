@@ -89,6 +89,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yehmeg/leetcodedaily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
@@ -258,6 +259,7 @@
 | [2544-alternating-digit-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yehmeg/leetcodedaily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yehmeg/leetcodedaily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
