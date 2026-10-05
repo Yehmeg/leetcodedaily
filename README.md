@@ -128,6 +128,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Yehmeg/leetcodedaily/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [3870-count-commas-in-range](https://github.com/Yehmeg/leetcodedaily/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/Yehmeg/leetcodedaily/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
