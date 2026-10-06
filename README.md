@@ -93,6 +93,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Yehmeg/leetcodedaily/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yehmeg/leetcodedaily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yehmeg/leetcodedaily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yehmeg/leetcodedaily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -126,6 +127,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Yehmeg/leetcodedaily/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yehmeg/leetcodedaily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Yehmeg/leetcodedaily/tree/master/3945-digit-frequency-score) |
@@ -267,6 +269,7 @@
 | [2544-alternating-digit-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Yehmeg/leetcodedaily/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Yehmeg/leetcodedaily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yehmeg/leetcodedaily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yehmeg/leetcodedaily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Yehmeg/leetcodedaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
