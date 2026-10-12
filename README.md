@@ -77,6 +77,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yehmeg/leetcodedaily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Yehmeg/leetcodedaily/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yehmeg/leetcodedaily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yehmeg/leetcodedaily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -147,6 +148,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/Yehmeg/leetcodedaily/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yehmeg/leetcodedaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/Yehmeg/leetcodedaily/tree/master/1402-reducing-dishes) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yehmeg/leetcodedaily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -311,6 +313,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Yehmeg/leetcodedaily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Yehmeg/leetcodedaily/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yehmeg/leetcodedaily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yehmeg/leetcodedaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Yehmeg/leetcodedaily/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Yehmeg/leetcodedaily/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0912-sort-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Yehmeg/leetcodedaily/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Quicksort
 |  |
 | ------- |
