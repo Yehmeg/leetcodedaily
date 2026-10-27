@@ -23,6 +23,7 @@
 | [0134-gas-station](https://github.com/Yehmeg/leetcodedaily/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yehmeg/leetcodedaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yehmeg/leetcodedaily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0162-find-peak-element) |
@@ -117,6 +118,7 @@
 | [0001-two-sum](https://github.com/Yehmeg/leetcodedaily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yehmeg/leetcodedaily/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yehmeg/leetcodedaily/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Yehmeg/leetcodedaily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
@@ -341,6 +343,7 @@
 | [0058-length-of-last-word](https://github.com/Yehmeg/leetcodedaily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Yehmeg/leetcodedaily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yehmeg/leetcodedaily/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Yehmeg/leetcodedaily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yehmeg/leetcodedaily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Yehmeg/leetcodedaily/tree/master/0344-reverse-string) |
@@ -375,6 +378,7 @@
 | [0053-maximum-subarray](https://github.com/Yehmeg/leetcodedaily/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yehmeg/leetcodedaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Yehmeg/leetcodedaily/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Yehmeg/leetcodedaily/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0509-fibonacci-number) |
@@ -419,6 +423,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yehmeg/leetcodedaily/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [1023-camelcase-matching](https://github.com/Yehmeg/leetcodedaily/tree/master/1023-camelcase-matching) |
 ## Number Theory
 |  |
@@ -518,6 +523,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yehmeg/leetcodedaily/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Yehmeg/leetcodedaily/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -609,4 +615,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yehmeg/leetcodedaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Yehmeg/leetcodedaily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
